@@ -1,0 +1,14 @@
+{
+    "name": "kreezalid/algolia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kreezalid and contributors",
+            "email": "dev@kreezalid.com"
+        }
+    ],
+    "require": {
+        "kreezalid/php-sdk": "dev-master"
+    }
+}
