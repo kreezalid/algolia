@@ -2,6 +2,7 @@
     "name": "kreezalid/algolia",
     "type": "library",
     "license": "MIT",
+    "description": "Example app to connect Kreezalid API with Algolia",
     "authors": [
         {
             "name": "Kreezalid and contributors",
@@ -9,6 +10,7 @@
         }
     ],
     "require": {
-        "kreezalid/php-sdk": "dev-master"
+        "kreezalid/php-sdk": "dev-master",
+        "algolia/algoliasearch-client-php": "^2.6"
     }
 }
